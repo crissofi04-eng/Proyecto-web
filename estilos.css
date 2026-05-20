@@ -535,9 +535,7 @@ textarea {
   grid-column: 1 / -1;
   align-self: start;
 }
-input{
-	border-radius: 50px;
-}
+
 input,
 textarea {
   width: 100%;
@@ -545,6 +543,7 @@ textarea {
   font-size: 18px;
   box-sizing: border-box;
   border: 1px solid #ccc;
+	border-radius: 30px;
 }
 .form-button input:hover {
   background-color: #969696;
