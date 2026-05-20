@@ -535,7 +535,9 @@ textarea {
   grid-column: 1 / -1;
   align-self: start;
 }
-
+input{
+	border-radius: 50px;
+}
 input,
 textarea {
   width: 100%;
