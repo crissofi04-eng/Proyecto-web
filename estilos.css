@@ -592,12 +592,19 @@ textarea {
     padding: 100px 28% 100px 28%;
   }
   .titulo-inicio{
-	  padding:100px 10px 10px 10px;
+	  padding-top:250px;
   }
   .text-inicio{
-	  padding:10px 10px 100px 10px;
+	  padding-bottom:250px;
   }
-	
+}
+@media screen and (max-width: 1024px){
+	.titulo-inicio{
+	  padding-top:150px;
+  }
+  .text-inicio{
+	  padding-bottom:150px;
+  }
 }
 @media screen and (min-width: 1780px){
 	#sec-about,
