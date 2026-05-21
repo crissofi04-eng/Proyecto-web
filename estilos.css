@@ -62,7 +62,7 @@ h2 {
   text-decoration: underline 2px #000;
   text-underline-offset: 8px;
 }
-p,
+
 h1 {
   text-align: center;
 }
@@ -297,13 +297,13 @@ textarea {
     padding: 100px 28% 100px 28%;
   }
   .titulo-inicio{
-	  padding-top:250px;
+	  padding-top:275px;
   }
   .text-inicio{
-	  padding-bottom:250px;
+	  padding-bottom:275px;
   }
 }
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1650px){
 	.titulo-inicio{
 	  padding-top:150px;
   }
